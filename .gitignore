@@ -1,0 +1,19 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+venv/
+env/
+ENV/
+.env
+
+# Streamlit secrets (local only)
+.streamlit/secrets.toml
+
+# OS generated
+.DS_Store
+Thumbs.db
+
